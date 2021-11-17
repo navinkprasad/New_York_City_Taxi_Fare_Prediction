@@ -8,7 +8,7 @@ Task: you are tasked with predicting the fare amount (inclusive of tolls) for a 
 Metric achieved
 
 R Square 0.9400762643333571<br/>
-MAE 1.4025255433477628
-MSE 6.6505615409924435
+MAE 1.4025255433477628<br/>
+MSE 6.6505615409924435<br/>
 RMSE 2.578868267475569
 
