@@ -10,7 +10,11 @@ Metric achieved
 R Square 0.9400762643333571<br/>
 Root Mean Squared Error 2.578868267475569
 
-note: I have not used entire dataset as this is very big and used sampled dataset with 120K records. The RMSE which I got can be put in 4th position of the leaderboard. :)
+**Note**: I have not used entire dataset as this is very big and used sampled dataset with 120K records. The RMSE which I got can be put in 4th position of the leaderboard. :)
+
+original leaderboard
+![image](https://user-images.githubusercontent.com/89060452/142240040-47824beb-9f8c-4a15-9982-3901f63f66aa.png)
+
 
 
 
