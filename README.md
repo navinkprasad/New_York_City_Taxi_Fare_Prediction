@@ -8,7 +8,11 @@ Task: you are tasked with predicting the fare amount (inclusive of tolls) for a 
 Metric achieved
 
 R Square 0.9400762643333571<br/>
-MAE 1.4025255433477628<br/>
-MSE 6.6505615409924435<br/>
-RMSE 2.578868267475569
+Root Mean Squared Error 2.578868267475569
+
+note: I have not used entire dataset as this is very big and used sampled dataset with 120K records. The RMSE which I got can be put in 4th position of the leaderboard. :)
+
+
+
+
 
